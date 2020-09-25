@@ -1,4 +1,4 @@
-<a class="nav-link" href="/">Trang chủ 
+<a class="nav-link" href="/">Trang chủ
     <span class="sr-only">(current)</span>
 </a>
 
